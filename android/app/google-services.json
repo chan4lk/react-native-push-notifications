@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "116236234431",
+    "firebase_url": "https://react-native-push-01.firebaseio.com",
+    "project_id": "react-native-push-01",
+    "storage_bucket": "react-native-push-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116236234431:android:2d8500a161094397",
+        "android_client_info": {
+          "package_name": "com.reactnativepushdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116236234431-i109cd9un0qhlkmg2bu11fetgl2957mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwyyQOU-VgaJPH9G3avc5d4UBjpXMaQ-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

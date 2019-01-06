@@ -4538,6 +4538,11 @@ react-is@^16.6.3:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.7.0.tgz#c1bd21c64f1f1364c6f70695ec02d69392f41bfa"
   integrity sha512-Z0VRQdF4NPDoI0tsXVMLkJLiwEBa+RP66g0xDHxgxysxSoCUccSten4RTF/UFvZF1dZvZ9Zu1sx+MDXwcOR34g==
 
+react-native-azurenotificationhub@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/react-native-azurenotificationhub/-/react-native-azurenotificationhub-0.5.0.tgz#5602cdccc5460c7579741fc641d2254febe428c0"
+  integrity sha512-Nf7E+9xORmOgjUgj1kbvpZzCFwh1dgxAwKB4v8HYqCgXRD1Nv598vxmf6Wcz8xxz0K3y4lneckAVKUjZhs0YwQ==
+
 react-native@0.57.8:
   version "0.57.8"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.57.8.tgz#1a840fbe144cd3902cc14313a783ce28efc48cb9"
